@@ -1,65 +1,59 @@
-.option{
-    width: 250px;
+.option {
+  width: 250px;
 }
-.color > a{
-    display: inline-block;
-    width: 20px;
-    height: 20px;
+.color > a {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
 }
-.black{
-    background-color: #000000;
+.black {
+  background-color: #000000;
 }
-.red{
-    background-color: #ff0000;
+.red {
+  background-color: #ff0000;
 }
-.blue{
-    background-color: #0000ff;
-}
-
-#can{
-    margin-bottom: 200;
-    margin-top: 100;
+.blue {
+  background-color: #0000ff;
 }
 
-canvas{
-    text-align: center;
+#can {
+  margin-bottom: 200;
+  margin-top: 100;
 }
 
-h1{
-    text-align: center;
-    margin-top:100;
+canvas {
+  text-align: center;
 }
 
-/*button{
-    text-align: center;
-}*/
-
+h1 {
+  text-align: center;
+  margin-top: 100;
+}
 
 .prediction-number {
-    color: #bdbdbd;
-    font-size: 14px;
-    text-align: center;
-  }
+  color: #bdbdbd;
+  font-size: 14px;
+  text-align: center;
+}
 
-  #canvas_wrapper{
-	width:280px;
-	margin:0 auto;
+#canvas_wrapper {
+  width: 280px;
+  margin: 0 auto;
+}
+
+#result_wrapper {
+  width: 400px;
+  margin: 0 auto;
 }
 
 .container1 {
-    display: inline-block;
-    width: 100px;
-    height: 50px;
-    }
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+}
 
-/*.container2 {
-    display: inline-block;
-    width: 100px;
-    height: 50px;
-    }*/
-
-.ull li{
-    display: inline-block;
-    width: 100px;
-    height: 50px;
-    }
+.ull li {
+  display: inline-block;
+  width: 100px;
+  height: 50px;
+}
